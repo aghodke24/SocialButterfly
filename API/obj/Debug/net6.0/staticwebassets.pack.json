@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\638143170881619504_Profile.jpg",
+      "PackagePath": "staticwebassets\\Images\\638143170881619504_Profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\FT_638143168508359907.jpg",
+      "PackagePath": "staticwebassets\\Images\\FT_638143168508359907.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Mrityunjaya_638408515240053330.jpg",
+      "PackagePath": "staticwebassets\\Images\\Mrityunjaya_638408515240053330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Profile_638142144577438409.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profile_638142144577438409.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Profile_638142188354991732.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profile_638142188354991732.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Ram_638142108110989980.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ram_638142108110989980.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Ram_638142114126510808.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ram_638142114126510808.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Ram_638142175399166832.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ram_638142175399166832.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\Ram_638143171264572975.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ram_638143171264572975.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\mantras-for-lord-ram-main_g_638142143525764435.jpg",
+      "PackagePath": "staticwebassets\\Images\\mantras-for-lord-ram-main_g_638142143525764435.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\mantras-for-lord-ram-main_g_638142174634531177.jpg",
+      "PackagePath": "staticwebassets\\Images\\mantras-for-lord-ram-main_g_638142174634531177.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\mantras-for-lord-ram-main_g_638143167820888727.jpg",
+      "PackagePath": "staticwebassets\\Images\\mantras-for-lord-ram-main_g_638143167820888727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\Images\\profile (1)_638143765529348092.jpg",
+      "PackagePath": "staticwebassets\\Images\\profile (1)_638143765529348092.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\Bleach_TYBW_Key_Visual_638142149072274462.jpg",
+      "PackagePath": "staticwebassets\\posts\\Bleach_TYBW_Key_Visual_638142149072274462.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\Bleach_TYBW_Key_Visual_638143223094118318.jpg",
+      "PackagePath": "staticwebassets\\posts\\Bleach_TYBW_Key_Visual_638143223094118318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\Kolhapuri-Cuisine_638142155646347149.jpg",
+      "PackagePath": "staticwebassets\\posts\\Kolhapuri-Cuisine_638142155646347149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\Kolhapuri-Cuisine_638142176864689865.jpg",
+      "PackagePath": "staticwebassets\\posts\\Kolhapuri-Cuisine_638142176864689865.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\Kolhapuri-Cuisine_638143233639987211.jpg",
+      "PackagePath": "staticwebassets\\posts\\Kolhapuri-Cuisine_638143233639987211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\happy-holi_638142159128493832.jpg",
+      "PackagePath": "staticwebassets\\posts\\happy-holi_638142159128493832.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\SocialMediaWeb\\SocialMediaWeb\\SocialMediaWeb\\wwwroot\\posts\\videoplayback_638221945702198541.mp4",
+      "PackagePath": "staticwebassets\\posts\\videoplayback_638221945702198541.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SocialMediaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SocialMediaWeb.props",
+      "PackagePath": "build\\SocialMediaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialMediaWeb.props",
+      "PackagePath": "buildMultiTargeting\\SocialMediaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SocialMediaWeb.props",
+      "PackagePath": "buildTransitive\\SocialMediaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
